@@ -57,14 +57,14 @@ global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorown = '792743305323'
 global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nameown = 'Muhaj'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
+  ['79274305323'],
   ['6283174508962'],
   ['6283174508962'],
   ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
